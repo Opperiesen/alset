@@ -14,13 +14,13 @@ function Header() {
         <p>Model 3</p>
         <p>Model X</p>
         <p>Model Y</p>
-        <p>Powerwall</p>
-        <p>Recharger</p>
+        <p>Solar Roof</p>
+        <p>Solar Panels</p>
       </div>
 
       <div className="header__right">
         <p>Shop</p>
-        <p>Compte Tesla</p>
+        <p>Tesla Account</p>
       </div>
     </div>
   );
