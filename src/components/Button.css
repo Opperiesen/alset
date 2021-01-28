@@ -1,5 +1,5 @@
 .button {
-  background-color: rgba(23, 26, 32, 0.8);
+  background-color: #171a20cc;
   height: 40px;
   width: 256px;
   margin: 8px;
@@ -7,14 +7,14 @@
   justify-items: center;
   align-items: center;
   border-radius: 100px;
-  opacity: 0.85;
 }
 
 .button > a {
   text-emphasis: none;
   color: white;
   font-size: 12px;
-  text-align: center;
+  text-decoration: none;
+  margin: 0 auto;
 }
 
 .button__white {

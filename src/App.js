@@ -16,22 +16,22 @@ function App() {
       <Header />
       <div className="app__itemsContainer">
         <Item
-          title="Lowest Cost Solar Panels in America"
-          desc="Money-back guarantee"
+          title="Model S"
+          desc="Order Online for Touchless Delivery"
           descLink=""
-          backgroundImg={SolarPanels}
+          backgroundImg={ModelS}
           leftBtnTxt="ORDER NOW"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
+          rightBtnTxt="EXISTING INVENTORY"
           rightBtnLink=""
           twoButtons="true"
           first
         />
         <Item
-          title="Model S"
-          desc="$69,240"
+          title="Lowest Cost Solar Panels in America"
+          desc="Money-back guarantee"
           descLink=""
-          backgroundImg={ModelS}
+          backgroundImg={SolarPanels}
           leftBtnTxt="ORDER NOW"
           leftBtnLink=""
           rightBtnTxt="LEARN MORE"
@@ -49,7 +49,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
         <Item
           title="Model X"
@@ -61,7 +60,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
         <Item
           title="Model Y"
@@ -73,7 +71,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
         <Item
           title="Solar for New Roofs"
@@ -85,7 +82,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
         <Item
           title="Accessories"
@@ -96,7 +92,6 @@ function App() {
           leftBtnLink=""
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
-          first
         />
       </div>
     </div>
